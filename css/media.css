@@ -1,0 +1,693 @@
+
+@media screen and (max-width: 1380px) {
+    .gummy-fit-header-bg-second {
+        left: 912px;
+    }
+    .bottom-frame {
+        display: none;
+    }
+    .overview-product-block-inner {
+        display: block;
+    }
+    .overview-product-block {
+        height: auto;
+    }
+    .overview-product-subtitle {
+        width: auto;
+    }
+    .overview-product-description {
+        width: auto;
+    }
+    .gummy-fit-header-bg {
+        display: none;
+    }
+    .about-product-test-block {
+        width: auto;
+        position: initial;
+        margin-top: 40px;
+    }
+    .about-product-grid {
+        justify-items: center;
+    }
+    .about-product-title {
+        margin: 0 auto;
+        padding-top: 140px;
+    }
+    .quality-marks {
+        display: flex;
+        text-align: center;
+        width: 550px;
+        align-items: stretch;
+        background: #673F1B;
+        position: initial;
+        border-radius: 20px;
+        justify-content: center;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+    .way-to-use-subtitle {
+        font-size: 75px;
+        right: 123px;
+    }
+    .about-product-qual-text {
+        position: initial;
+    }
+    .about-product-block-first {
+        margin: 0 auto;
+        width: auto;
+        margin-bottom: 45px;
+    }
+    .about-product-block-second {
+        margin: 0 auto;
+        width: 610px;
+    }
+    .about-product-block-third {
+        background: #FFFFFF;
+        width: 610px;
+        height: auto;
+        padding: 50px;
+        margin-top: 30px;
+        border-radius: 20px;
+    }
+    .about-product-info-text-third {
+        width: auto;
+    }
+    .about-product-gummy-bear-fit {
+        right: 1px;
+        left: auto;
+        top: 785px;
+    }
+    .result-product-title {
+        width: auto;
+        text-align: center;
+    }
+    .product-reviews-title {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .product-reviews-text-bg {
+        position: absolute;
+        top: 190px;
+        left: 190px;
+    }
+    .doctor-second-block-sign {
+        position: absolute;
+        left: 475px;
+        top: 785px;
+    }
+    .way-to-use-gummy-bears-bg {
+        display: none;
+    }
+    .doctor-first-block-sign-img {
+        left: 550px;
+    }
+    .end-block-test {
+        width: auto;
+        bottom: 33px;
+        left: 725px;
+    }
+    .end-block-test-bg {
+        position: absolute;
+        left: 10px;
+        bottom: 122px;
+        width: 75px;
+        z-index: 700;
+    }
+}
+@media screen and (max-width: 1280px) {
+    .header-block-inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .product-gummy-subtitle {
+        text-align: center;
+    }
+    .gummy-fit-header-bg-second {
+        left: 767px;
+        top: 1320px;
+        width: 240px;
+    }
+    .gummy-bears-header-bg {
+        display: none;
+    }
+    .header-block-product {
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .way-to-use-block {
+        height: auto;
+        flex-direction: column;
+    }
+    .way-to-use-block-text {
+        display: flex; 
+        flex-wrap: wrap; 
+        justify-content: center;
+    }
+    .way-to-use-hand-bear-second {
+        position: absolute; 
+        left: 220px; 
+        bottom: 970px;
+    }
+    .line-way-to-use-second {
+        display: none;
+    }   
+    .line-way-to-use-first {    
+        display: none;
+    }
+    .way-to-use-subtitle {
+        right: auto;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .product-reviews-text-bg {
+        top: 201px;
+        left: 50px;
+    }
+    .comments-product {
+        margin-top: 50px;
+        text-align: center;
+        justify-content: center;
+    }
+    .doctor-first-block-sign-img {
+        left: 696px;
+        top: 343px;
+    }
+    .doctor-second-block-sign {
+        left: 625px; 
+        top: 725px;
+    }
+    .end-block-wrapper {
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        height: 860px;
+        padding: 60px;
+    }
+    .doctor-recommendation-inner {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .doctor-first-block-wrapper {
+        display: inline-block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .doctor-second-block-wrapper {
+        display: inline-block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .doctor-block-title {
+        margin: 0 auto;
+    }
+    .end-block-gummy-bears-bg-second {
+        width: 400px;
+    }
+    .end-block-gummy-bears-bg-first {
+        bottom: 460px;
+    }
+    .end-block-text {
+        right: auto;
+        top: auto;
+    }
+    .end-block-test {
+        width: auto; 
+        position: initial;
+    }
+    .footer-title {
+        font-size: 20px;
+    }
+    .footer-subtitle {  
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .gummy-fit-header-bg-second {
+        left: 583px;
+        top: 1290px;
+        width: 168px;
+    }
+    .overview-product-title {
+        font-size: 35px;
+        width: 550px;
+    }
+    .overview-product-result-img {
+        width: 300px;
+    }
+    .overview-product-subtitle {
+        font-size: 20px;
+    }
+    .overview-product-description {
+        font-size: 20px;
+    }
+    .about-product-qual-text {
+        width: 540px;
+    }
+    .about-product-gummy-bear-fit {
+        top: 625px;
+        width: 170px;
+    }
+    .product-reviews-title {
+        width: 600px;
+        font-size: 30px;
+    }
+    .product-reviews-text-bg {
+        top: 197px;
+        left: 60px;
+        width: 641px;
+    }
+    .way-to-use-subtitle {
+        right: auto;
+        margin: 0 auto;
+        margin-top: 50px;
+        margin-left: 136px;
+    }
+    .result-product-title {
+        width: auto;
+        text-align: center;
+        font-size: 30px;
+    }
+    .doctor-recommendation-block {
+        width: auto;
+    }
+    .doctor-block-title {
+        margin: 0 auto;
+        font-size: 26px;
+        width: 470px;
+    }
+    .doctor-first-block-sign-img {
+        left: 452px;
+        top: 412px;
+    }
+    .doctor-second-block-sign {
+        left: 389px;
+        top: 877px;
+    }    
+    .doctor-first-block-wrapper {
+        margin-top: 30px;
+        margin-bottom: 70px;
+    }
+    .doctor-block-img {
+        border-radius: 20px;
+        margin-bottom: 50px;
+    }
+    .footer-title {
+        font-size: 17px;
+    }
+    .footer-subtitle {
+        font-size: 17px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .product-gummy-title { 
+        color: #FFF; 
+        width: 370px; 
+        font-size: 20px; 
+    }
+    .product-gummy-subtitle { 
+        text-align: center; 
+        font-size: 20px; 
+        width: 370px; 
+    }
+    .header-gummy-bear-logo {
+        width: 250px;
+    }
+    .product-info-subtitle {
+        font-size: 20px;
+        width: 385px;
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+    .gummy-bear-in-test {
+        bottom: 123px;
+    }
+    .header-block-test-subtitle {
+        font-size: 15px;
+    }
+    .header-block-test {
+        width: auto;
+    }
+    .gummy-fit-header-bg-second {
+        display: none;
+    }
+    .overview-product-title {
+        font-size: 28px;
+        width: 400px;
+    }
+    .overview-product-result-img {
+        width: 164px;
+    }
+    .quality-marks {
+        padding: 25px;
+        width: 150px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .about-product-title {
+        margin: 0 auto;
+        padding-top: 20px;
+        font-size: 33px;
+        width: 357px;
+        margin-bottom: 45px;
+    }
+    .about-product-qual-text {
+        display: none;
+    }
+    .about-product-block-first {
+        margin-bottom: 45px;
+        width: 406px;
+    }
+    .about-product-block-first {
+        margin-bottom: 45px;
+        width: 420px;
+    }
+    .about-product-info-text {
+        width: auto;
+    }
+    .about-product-block-second {
+        margin: 0 auto;
+        width: 415px;
+    }
+    .about-product-block-third {
+        width: 410px;
+    }
+    .about-product-grid {
+        justify-items: center;
+        justify-content: center;
+        grid-template-columns: repeat(auto-fit, minmax(325px, 1fr));
+    }
+    .about-product-gummy-bear-fit {
+        display: none;
+    }
+    .way-to-use-subtitle {
+        margin-left: 15px;
+    }
+    .way-to-use-hand-img {
+        width: 370px;
+    }
+    .way-to-use-hand-bear-first {
+        position: absolute;
+        top: 65px;
+        left: 240px;
+        transform: rotate(29deg);
+    }
+    .way-to-use-hand-bear-second {
+        position: absolute;
+        left: 129px;
+        bottom: 878px;
+        width: 140px;
+    }
+    .way-to-use-hand-bear-first {
+        position: absolute;
+        top: 50px;
+        width: 71px;
+        left: 209px;
+        transform: rotate(29deg);
+    }
+    .result-product-title {
+        text-align: center;
+        font-size: 20px;
+        width: 360px;
+        margin: 0 auto;
+    }
+    .way-text-block {
+        width: auto;
+    }
+    .way-to-use-title {
+        width: auto;
+        text-align: center;
+    }
+    .way-to-use-subtitle {
+        margin-left: auto;
+        text-align: center;
+        font-size: 40px;
+    }
+    .product-reviews-title {
+        width: 410px;
+        font-size: 25px;
+    }
+    .product-reviews-text-bg {
+        display: none;
+    }
+    .result-product-photo {
+        width: 200px;
+    }
+    .comments-product-test {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        margin-top: 40px;
+        margin-bottom: 30px;
+        align-items: center;
+    }
+    .doctor-block-title {
+        margin: 0 auto;
+        font-size: 20px;
+        width: 331px;
+    }
+    .doctor-block-img {
+        border-radius: 20px;
+        margin-bottom: 50px;
+        width: 322px;
+    }
+    .doctor-first-block-sign-img {
+        display: none;
+    }
+    .doctor-second-block-sign {
+        display: none;
+    }
+    .end-block-wrapper {
+        height: auto;
+        flex-wrap: nowrap;
+        align-items: baseline;
+    }
+    .end-block-title {
+        font-size: 30px;
+    }
+    .end-block-subtitle {
+        font-size: 19px;
+    }
+    .comment-product-block-two {
+        display: none;
+    }
+    .comment-product-block-six {
+        display: none;
+    }
+    .comment-product-block-eight {
+        display: none;
+    }
+    .comments-product-test-btn {
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .product-gummy-title {
+        width: 260px;
+        margin-bottom: 20px;
+        font-size: 19px;
+    }
+    .header-block {
+        padding: 10px 9px;
+    }
+    .product-gummy-subtitle {
+        font-size: 19px;
+        width: 265px;
+    }
+    .product-info-subtitle {
+        font-size: 19px;
+        width: 256px;
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+    .header-block-test {
+        width: auto;
+        padding: 22px 15px;
+    }
+    .gummy-bear-in-test {
+        bottom: 125px;
+        left: 1px;
+        width: 56px;
+    }
+    .header-gummy-bear-fit {
+        width: 170px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .properties-gummy-bears-subtitle {
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 26.01px;
+        margin-left: 15px;
+        margin-top: 6px;
+        text-align: center;
+    }
+    .header-block-inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 55px;
+    }
+    .overview-product-title {
+        font-size: 18px;
+        width: 219px;
+    }
+    .overview-product-result-img {
+        width: 170px;
+    }
+    .overview-product-subtitle {
+        font-size: 17px;
+    }
+    .overview-product-description {
+        font-size: 17px;
+    }
+    .about-product-title {
+        margin: 0 auto;
+        padding-top: 20px;
+        font-size: 20px;
+        width: 221px;
+        margin-bottom: 45px;
+    }
+    .about-product-block-first {
+        margin-bottom: 45px;
+        width: 265px;
+    }
+    .about-product-block-second {
+        margin: 0 auto;
+        width: 265px;
+    }
+    .about-product-block-third {
+        width: 265px;
+    }
+    .about-product-test-block-title {
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 37px;
+        width: auto;
+    }
+    .way-to-use-hand-img {
+        width: 270px;
+        left: -30px;
+    }
+    .way-to-use-hand-bear-first {
+        position: absolute;
+        top: -30px;
+        width: 60px;
+        left: 108px;
+        transform: rotate(29deg);
+    }
+    .way-to-use-hand-bear-second {
+        position: absolute;
+        left: 115px;
+        bottom: 898px;
+        width: 111px;
+    }
+    .way-to-use-inner {
+        padding: 10px 11px;
+    }
+    .way-to-use-title {
+        width: auto;
+        text-align: center;
+        margin-left: auto;
+        font-size: 25px;
+    }
+    .way-text-block {
+        width: auto;
+        margin-left: auto;
+    }
+    .result-product-title {
+        text-align: center;
+        font-size: 17px;
+        width: 235px;
+        margin: 0 auto;
+    }
+    .product-reviews-title {
+        width: 280px;
+        font-size: 20px;
+    }
+    .comment-product-block-four {
+        background: white;
+        width: 288px;
+        height: 128px;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    .comment-product-block-five {
+        background: white;
+        width: 293px;
+        padding: 8px;
+        border-radius: 20px;
+    }
+    .comments-product-test-title {
+        color: #333333;
+        font-size: 17px;
+    }
+    .doctor-block-title {
+        margin: 0 auto;
+        font-size: 14px;
+        width: 220px;
+    }
+    .doctor-block-img {
+        border-radius: 20px;
+        margin-bottom: 50px;
+        width: 209px;
+    }
+    .doctor-second-block-wrapper {
+        display: inline-block;
+        margin: 0 auto;
+        text-align: center;
+        width: 212px;
+    }
+    .end-block-gummy-bears-bg-second {
+        width: 225px;
+    }
+    .end-block-title {
+        font-size: 20px;
+    }
+    .end-block-subtitle {
+        font-size: 17px;
+    }
+    .end-block-test-title {
+        color: #FFFFFF;
+        font-size: 18px;
+        line-height: 31px;
+        width: 227px;
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+    .end-block-test {
+        height: auto;
+    }
+    .end-block-test-bg {
+        position: absolute;
+        left: 10px;
+        bottom: 188px;
+        width: 75px;
+        z-index: 700;
+    }
+    .way-to-use-block {
+        height: auto;
+        flex-direction: column;
+        padding: 22px;
+    }
+    .comment-4 {
+        width: 274px;
+    }
+    .comment-product-block-four {
+        background: white;
+        width: 288px;
+        height: 92px;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    .footer-wrapper {
+        display: flex;
+        align-items: center;
+        padding: 20px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
